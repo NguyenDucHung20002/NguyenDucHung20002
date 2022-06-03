@@ -16,7 +16,7 @@
 
 - ✍ I'm a student of: [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH).
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about Html , Css , Scss , JS , ReactJS
 
