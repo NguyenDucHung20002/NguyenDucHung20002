@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 📫 How to reach me: sieuxau50@gmail.com
+- 📫 How to reach me: hungduc2102@gmail.com
 
 
 - ✍ I'm a student of: [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH).
