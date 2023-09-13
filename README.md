@@ -24,7 +24,7 @@
 <p align="center">Lenguages and Tools:</p>
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48"/>
+    <img src="https://icons8.com/icon/54087/nodejs" width="48" height="48"/>
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48"/>
