@@ -24,18 +24,23 @@
 <p align="center">Lenguages and Tools:</p>
 <p align="center">
   <a href="#">
-    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/8cf52237-da17-46f3-b087-a84d0c040766" width="48" height="48"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48"/>
-  </a>
-  <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
   </a>
-  <a href="#">
+   <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/>
   </a>
   <a href="#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48"/>
+  
+    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/8cf52237-da17-46f3-b087-a84d0c040766" width="48" height="48"/>
+  </a>
+  <a href="#">
+    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/3b78870d-4e9d-4fe5-bb88-7a6903453350" width="48" height="48"/>
+  </a>
+ 
+  <a href="#">
+    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/a39d6abb-ecec-49e1-9ee2-60e3aea8798b" width="48" height="48"/>
+  </a>
+   <a href="#">
+    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/9421bcfa-54e3-4061-b62f-68060198bb1b" width="48" height="48"/>
   </a>
 </p>
