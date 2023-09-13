@@ -30,6 +30,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/>
   </a>
   <a href="#">
+    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/816f94e6-6299-424f-8a22-a146208fa1f6" width="48" height="48"/>
+  </a>
+  <a href="#">
+    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/1e7b5296-2a82-4755-af67-00b8abb74e5b" width="48" height="48"/>
+  </a>
+  <a href="#">
     <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/8cf52237-da17-46f3-b087-a84d0c040766" width="48" height="48"/>
   </a>
   <a href="#">
@@ -40,5 +46,8 @@
   </a>
    <a href="#">
     <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/9421bcfa-54e3-4061-b62f-68060198bb1b" width="48" height="48"/>
+  </a>
+   <a href="#">
+    <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/834c4c8b-4d24-4f53-976c-319b4a7988d2" width="48" height="48"/>
   </a>
 </p>
