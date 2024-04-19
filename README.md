@@ -13,9 +13,7 @@
 ## Skills:
 <p align="center">Lenguages and Tools:</p>
 <p align="center">
-  <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
-  </a>
    <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/>
   </a>
