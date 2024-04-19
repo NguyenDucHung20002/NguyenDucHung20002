@@ -12,7 +12,7 @@
 
 ## Skills:
 <p align="center">Lenguages and Tools:</p>
-<p style="display: flex, alignItems: center, gap: 5px, justifyContent: center;" >
+<div align="center" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/>
     <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/816f94e6-6299-424f-8a22-a146208fa1f6" width="48" height="48"/>
@@ -25,4 +25,4 @@
     <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/3c7cb8ef-0206-4136-9b83-7a9b55854b26" width="48" height="48"/>
     <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/90d44709-be2b-42ed-93c7-c9525505f74d" width="48" height="48"/>
     <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/722c07db-b91d-45b2-b7b0-7f26d9665e99" width="48" height="48"/>
-</p>
+</div>
