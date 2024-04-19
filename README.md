@@ -12,7 +12,7 @@
 
 ## Skills:
 <p align="center">Lenguages and Tools:</p>
-<p style="display: flex, align-item: center, gap: 5px" >
+<p style="display: flex, alignItems: center, gap: 5px, justifyContent: center;" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/>
     <img src="https://github.com/NguyenDucHung20002/NguyenDucHung20002/assets/102849103/816f94e6-6299-424f-8a22-a146208fa1f6" width="48" height="48"/>
