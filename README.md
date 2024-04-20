@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc Hung</h1>
-<h3 align="center">A fontend developer</h3>
+<h3 align="center">A Web developer</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif" width="200" height="200"/>
 </p>
